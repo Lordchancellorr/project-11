@@ -107,7 +107,8 @@ You can see that the tasks were successfully created. See the images below for c
 The following images were the results! 
 ![New Tasks](./images/Added%20tasks%20successfully%20created.PNG)
 Check the mind-blowing effect it had on two of the servers below! Focus on the time the screenshot were taken and teh time displayed in the output on the terminal!
-[NFS](./images/NFS%20tasks%20confirmation.PNG)
+
+![NFS](./images/NFS%20tasks%20confirmation.PNG)
 
 ![Database](./images/Database%20tasks%20confirmation.PNG)
 
