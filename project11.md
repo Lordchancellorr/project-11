@@ -43,6 +43,7 @@ We will stop here and take a moment to set up our environmrnt. As a developer, a
 
 [lb]
 <Load-Balancer-Private-IP-Address> ansible_ssh_user='ubuntu'
+
 ````
 It's time to update the playbooks/common.yml file with following code: (Note that your format might be different from mine depending on the user you bused in creating your instances)
 ```
